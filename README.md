@@ -2,7 +2,7 @@
 Junior Developer Test Task using PHP and MYSQL with website link
 
 ## How to Run Project
-   use http://localhost:3066/ to Run Project or change this BaseURl from ProductController.php file
+   use http://localhost:3066/index.php to Run Project or change this BaseURl from ProductController.php file
   * Note if you use vs code:<br>
       1- make new terminal <br>
       2- write command <u>***cd public***</u> <br>
